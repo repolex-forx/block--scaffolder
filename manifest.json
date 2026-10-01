@@ -156,7 +156,9 @@
           "githubUrl": "https://github.com/hexops/gotextdiff",
           "source": "build_file:go.mod"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/fdfb0f43471e1e5011ee4b95e62653f1529e9027/chunk-001.nq.gz",
+      "dep": "dep/fdfb0f43471e1e5011ee4b95e62653f1529e9027.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
