@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "scaffolder",
+  "versions": [
+    {
+      "commit": "fdfb0f43471e1e5011ee4b95e62653f1529e9027",
+      "tag": "main",
+      "parsed_at": "2026-10-01T09:17:55.640852+00:00"
+    }
+  ]
+}
