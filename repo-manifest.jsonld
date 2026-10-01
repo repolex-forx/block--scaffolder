@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/scaffolder/commit/fdfb0f43471e1e5011ee4b95e62653f1529e9027",
       "git:hexsha": "fdfb0f43471e1e5011ee4b95e62653f1529e9027",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "v1.11.0"
     },
     {

@@ -49,6 +49,113 @@
       ],
       "ast": [
         "aggregate/ast/fdfb0f43471e1e5011ee4b95e62653f1529e9027/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/fdfb0f43471e1e5011ee4b95e62653f1529e9027.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "github.com/alecthomas/assert/v2",
+          "ecosystem": "GO",
+          "version": "2.11.0",
+          "githubOrg": "alecthomas",
+          "githubRepo": "assert",
+          "githubCommit": "96885dec03fb9107de54aba088c8e366e1d67ce9",
+          "githubTag": "v2.11.0",
+          "githubUrl": "https://github.com/alecthomas/assert",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alecthomas/kong",
+          "ecosystem": "GO",
+          "version": "1.13.0",
+          "githubOrg": "alecthomas",
+          "githubRepo": "kong",
+          "githubCommit": "d8de683664a2581e93717b7e4e8f4b55e4beeff4",
+          "githubTag": "v1.13.0",
+          "githubUrl": "https://github.com/alecthomas/kong",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/block/getit",
+          "ecosystem": "GO",
+          "version": "0.1.0",
+          "githubOrg": "block",
+          "githubRepo": "getit",
+          "githubCommit": "196797f4f36acaaec858b35b18594d6c503b6730",
+          "githubTag": "v0.1.0",
+          "githubUrl": "https://github.com/block/getit",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/dop251/goja",
+          "ecosystem": "GO",
+          "version": "0.0.0-20260311135729-065cd970411c",
+          "githubOrg": "dop251",
+          "githubRepo": "goja",
+          "githubUrl": "https://github.com/dop251/goja",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/iancoleman/strcase",
+          "ecosystem": "GO",
+          "version": "0.3.0",
+          "githubOrg": "iancoleman",
+          "githubRepo": "strcase",
+          "githubCommit": "531aaa44de12ec166ceb71d9bdad7c8295e4235f",
+          "githubTag": "v0.3.0",
+          "githubUrl": "https://github.com/iancoleman/strcase",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/alecthomas/repr",
+          "ecosystem": "GO",
+          "version": "0.5.2",
+          "githubOrg": "alecthomas",
+          "githubRepo": "repr",
+          "githubCommit": "390ae5f1b8422b87c2dd5f4017b779db4393cfbb",
+          "githubTag": "v0.5.2",
+          "githubUrl": "https://github.com/alecthomas/repr",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/dlclark/regexp2",
+          "ecosystem": "GO",
+          "version": "1.11.4",
+          "githubOrg": "dlclark",
+          "githubRepo": "regexp2",
+          "githubCommit": "5f3687ab77460347a912d278c2e13844542834fd",
+          "githubTag": "v1.11.4",
+          "githubUrl": "https://github.com/dlclark/regexp2",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/go-sourcemap/sourcemap",
+          "ecosystem": "GO",
+          "version": "2.1.3+incompatible",
+          "githubOrg": "go-sourcemap",
+          "githubRepo": "sourcemap",
+          "githubUrl": "https://github.com/go-sourcemap/sourcemap",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/google/pprof",
+          "ecosystem": "GO",
+          "version": "0.0.0-20230207041349-798e818bf904",
+          "githubOrg": "google",
+          "githubRepo": "pprof",
+          "githubUrl": "https://github.com/google/pprof",
+          "source": "build_file:go.mod"
+        },
+        {
+          "packageName": "github.com/hexops/gotextdiff",
+          "ecosystem": "GO",
+          "version": "1.0.3",
+          "githubOrg": "hexops",
+          "githubRepo": "gotextdiff",
+          "githubCommit": "d452d6cac8696043473399e78f17b5dddd24dfd1",
+          "githubTag": "v1.0.3",
+          "githubUrl": "https://github.com/hexops/gotextdiff",
+          "source": "build_file:go.mod"
+        }
       ]
     }
   ],
